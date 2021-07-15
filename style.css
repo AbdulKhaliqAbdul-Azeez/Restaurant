@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: white;
+}
+div{
+    color: white;
+}
+#sushiTitle{
+    padding: 3%;
+    background-color: red;
+}
+body{
+    background-color: black;
+}
+#sideText{
+    margin-bottom: 3%;
+}
+a{
+    background: linear-gradient(to right, orange, red);
+    border-radius: 10px;
+    padding: 1%;
+    text-decoration: none;
+    color: white;
+    margin-top: 3%;
+}
+img{
+    display: block;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
